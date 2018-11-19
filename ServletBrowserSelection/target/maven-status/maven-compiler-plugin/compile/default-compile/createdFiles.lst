@@ -1,0 +1,4 @@
+com\mycompany\servletbrowserselection\MyServletFilter.class
+com\mycompany\servletbrowserselection\ServletForSafari.class
+com\mycompany\servletbrowserselection\ServletForFirefox.class
+com\mycompany\servletbrowserselection\ServletForChrome.class
